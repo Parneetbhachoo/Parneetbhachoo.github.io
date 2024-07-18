@@ -32,4 +32,4 @@
 
 *Data Management Techniques:* Employed filters, sorting, and conditional formatting techniques to organize and highlight data trends effectively within Excel worksheets.
 
-### I would like to express my gratitude to gndec for prviding me this oppurtunity. Thanks 
+### I would like to express my gratitude to gndec for providing me this oppurtunity. Thanks 
